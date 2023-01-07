@@ -10,9 +10,11 @@ body{
 
 .img {
     width: 500px;
-    height: auto;
+    height: 400px;
     margin: 0 auto;
     display: block;
+    border-radius: 10px;
+    
 }
 
 ul {
